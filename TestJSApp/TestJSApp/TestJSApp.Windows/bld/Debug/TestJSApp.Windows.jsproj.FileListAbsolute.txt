@@ -1,0 +1,15 @@
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bin\Debug\AppxManifest.xml
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bin\Debug\TestJSApp.Windows.build.appxrecipe
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\priconfig.xml
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\layout.resfiles
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\resources.resfiles
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\pri.resfiles
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\qualifiers.txt
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kchitalia\documents\visual studio 2013\Projects\TestJSApp\TestJSApp\TestJSApp.Windows\bld\Debug\ProjectArchitectures.txt
